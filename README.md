@@ -3,4 +3,4 @@
 
 ## Description
 
-https://mychat-mahendra.vercel.app/
+https://mychat-c7.vercel.app/
